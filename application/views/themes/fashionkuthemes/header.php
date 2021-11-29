@@ -11,7 +11,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i&display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Amatic+SC:400,700&display=swap" rel="stylesheet">
 	
-	<link rel="icon" href="<?php echo base_url('assets/uploads/sites/Logo.png'); ?>">
+	<link rel="icon" href="<?php echo base_url('assets/uploads/sites/logo1.png'); ?>">
 
     <link rel="stylesheet" href="<?php echo get_theme_uri('css/open-iconic-bootstrap.min.css'); ?>">
     <link rel="stylesheet" href="<?php echo get_theme_uri('css/animate.css'); ?>">
